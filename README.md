@@ -3,7 +3,6 @@
 <h3 align="center">A Full Stack Developer from Lebanon</h3>
 <img class="logo"
              src="https://media.giphy.com/media/evp572k8wUVgcx1IkU/giphy.gif">
-             ![alt text](https://github.com/[Fady-dib]/[FadyDib]/blob/[main]/Profile.jpg?raw=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fady-dib&label=Profile%20views&color=0e75b6&style=flat" alt="fady-dib" /> </p>
 
 - 📫 How to reach me **Fady.dib55@gmail.com**
